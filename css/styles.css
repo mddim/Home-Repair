@@ -5,7 +5,36 @@
     color: rgb(24, 24, 75);
 }
 
+.brand-top {
+    padding: 10px 0px 10px 0px;
+    margin: 0px auto;
+    background-color: rgb(24, 24, 75);
+    color: floralwhite;
+}
+
+.navbar-brand {
+    margin: 0px auto;
+    font-size: 30px;
+    background-color: rgb(24, 24, 75);
+    color: floralwhite;
+}
+
+.navbar-center {
+    position: relative;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.nav-link {
+    margin: 0px 10px 0px 10px;
+}
+
 .navbar-dark {
     background-color: rgb(24, 24, 75);
     color: floralwhite;
+}
+
+body {
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
 }
